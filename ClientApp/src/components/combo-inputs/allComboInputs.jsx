@@ -15,7 +15,6 @@ import downFlick from '../../graphics/inputs/png/flick/down-flick.png'
 import backFlick from '../../graphics/inputs/png/flick/back-flick.png'
 
 import shortHop from '../../graphics/inputs/png/hop/short-hop.png'
-import mediumHop from '../../graphics/inputs/png/hop/medium-hop.png'
 import fullHop from '../../graphics/inputs/png/hop/full-hop.png'
 
 import andConditional from '../../graphics/inputs/png/conditional/and-conditional.png'
@@ -71,7 +70,6 @@ export const allComboInputs = {
   backFlick,
 
   shortHop,
-  mediumHop,
   fullHop,
 
   andConditional,
